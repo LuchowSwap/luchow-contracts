@@ -2,7 +2,7 @@
 This repo contains all the contracts used in LuchowSwap.
 It is divided in independent projects where each of them contains its smart contracts.
 
-## Existing projects
+## Existing contracts
 
 | Contract Name                                     | Address & Description                                                                           | Solidity version     |
 | ------------------------------------------------- | ----------------------------------------------------------------------------------------------- | -------------------- |
