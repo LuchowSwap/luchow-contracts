@@ -27,3 +27,13 @@ It is divided in independent projects where each of them contains its smart cont
 | LUCHOW                                            | 0xA5Ef74068d04ba0809B7379dD76Af5Ce34Ab7C57                                                      | 0.4.0 ~ 0.8.0        |
 | ReTkController                                    | 0x2B31f4973E0BDdb473bC6B148eFc295986Ff6037                                                      | 0.4.0 ~ 0.8.0        |
 
+## Polygon contracts
+
+| Contract Name                                     | Address & Description                                                                           | Solidity version     |
+| ------------------------------------------------- | ----------------------------------------------------------------------------------------------- | -------------------- |
+| LuchowFactory                                     | 0xd1b2108db64ab9facb36d0bd408f8568ef7683a4                                                      | 0.5.16               |
+| LuchowRouter                                      | 0x6aa3e05b01c1d9f9428fae39be9059f53aa72699                                                      | 0.6.6                |
+| LuchowMasterChef                                  | 0xd3f8ae52320676335d4be44e9ee4f3ac4510e1db                                                      | 0.6.12 / 0.8.0       |
+| FeeAddress                                        | 0xEF6Ac67E964943094a43d5629934ae01Dbd7cFab                                                      | 0.4.0 ~ 0.8.0        |
+| LUCHOW                                            | 0xc4bb7277a74678f053259cb1f96140347efbfd46                                                      | 0.4.0 ~ 0.8.0        |
+| ReTkController                                    | 0x1dd9404799a5dbba5d6f6918c7ac98070deda840                                                      | 0.4.0 ~ 0.8.0        |
